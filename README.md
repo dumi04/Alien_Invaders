@@ -1,4 +1,4 @@
-# 2D-Game
+# Alien Invaders
 This Python script utilizes the Pygame library to create a simple 2D game where the player controls a spaceship, shoots bullets, and earns points by destroying randomly moving alien enemies.
 
 Instructions
